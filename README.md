@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
 <h3 align="center">A Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, passionate backend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [TeamCode](app that helps you find teammates)
+- 🔭 I’m currently working on TeamCode -app that helps you find teammates
 
 - 👯 I’m looking to collaborate on **any project that will bring me a new experience that is different from my existing one**
 
